@@ -26,3 +26,7 @@ With the technical knowledge I gain from this intensive Bootcamp, and the soft s
  * Netlify
  * Heroku
  * Figma
+
+### ✉️ Contact me
+on [Linked In](https://www.linkedin.com/in/pbouchereau/)  
+via [email](pauline.bouchereau@gmail.com)
