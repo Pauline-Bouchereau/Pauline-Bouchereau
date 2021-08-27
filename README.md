@@ -1,7 +1,5 @@
 # :sparkles: Hello there ! :sparkles:
 
-## --> Currently looking for a 6 month internship in Paris ! <--
-
 My name is Pauline and I am a Web and Mobile Developper ! 👩🏻‍💻   
 
 After 5 years as a Marketing Manager, I decided to shift careers and discovered coding through Codeademy and Free Code Camp. To give me a boost and learn faster, I decided to enroll in a Bootcamp Training @ Le Reacteur, focusing on Fullstack Web and Mobile Development.
